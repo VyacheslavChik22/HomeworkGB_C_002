@@ -59,7 +59,7 @@ void ThirdDigit(int number)
     }
     else
     {
-        Console.WriteLine("Третей цифры в этом числе здесь нет!");
+        Console.WriteLine("Третей цифры в этом числе нет!");
     }
 }
 
